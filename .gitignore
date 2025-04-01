@@ -10,3 +10,7 @@ chromedriver.exe
 .venv/
 venv/
 ENV/
+
+# Add to .gitignore
+mylumi_data/
+*.csv

@@ -1,0 +1,12 @@
+# .gitignore file
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+mylumi_data/
+chromedriver
+chromedriver.exe
+.venv/
+venv/
+ENV/
